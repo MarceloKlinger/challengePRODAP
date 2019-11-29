@@ -5,7 +5,7 @@ module.exports = {
   password: 'docker',
   database: 'challenge',
   define: {
-    timestamps: true,
+    timestamps: false,
     underscored: true,
     underscoredAll: true,
   }
