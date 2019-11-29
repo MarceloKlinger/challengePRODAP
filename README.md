@@ -7,12 +7,14 @@ O desafio consiste em criar um crud de pessoas com as informações abaixo, util
 # Clone repository
 If you want to clone this repository with:
 
-**SSH
+**SSH**
 
-**git clone @github.com/MarceloKlinger/challengePRODAP
+**git clone @github.com/MarceloKlinger/challengePRODAP**
 
-**HTTPS
+**HTTPS**
 
-**git clone https://github.com/MarceloKlinger/challengePRODAP
-Server
-To run
+**git clone https://github.com/MarceloKlinger/challengePRODAP**
+
+# Server 
+**Yarn**
+**To run**
