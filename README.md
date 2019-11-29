@@ -16,5 +16,7 @@ If you want to clone this repository with:
 **git clone https://github.com/MarceloKlinger/challengePRODAP**
 
 # Server 
-**Yarn**
 **To run**
+
+**yarn dev**
+
